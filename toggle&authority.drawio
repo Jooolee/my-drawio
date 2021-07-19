@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T06:21:24.930Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="geJpF3tVBosxtkcD6XSt" version="14.6.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-19T09:36:49.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="ymOlpGcnbzl0NYvjgdOW" version="14.8.3" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1489" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2044" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -87,6 +87,32 @@
       <root>
         <mxCell id="Lb562_HOeZJibadWWv1J-0" />
         <mxCell id="Lb562_HOeZJibadWWv1J-1" parent="Lb562_HOeZJibadWWv1J-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KMTDw45ETmdznobcVzb6" name="Page-3">
+    <mxGraphModel dx="2044" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WMl-yz5_S_ytCYJ7rsez-0" />
+        <mxCell id="WMl-yz5_S_ytCYJ7rsez-1" parent="WMl-yz5_S_ytCYJ7rsez-0" />
+        <mxCell id="WMl-yz5_S_ytCYJ7rsez-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WMl-yz5_S_ytCYJ7rsez-1">
+          <mxGeometry x="140" y="140" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WMl-yz5_S_ytCYJ7rsez-3" value="mutation Web平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WMl-yz5_S_ytCYJ7rsez-1">
+          <mxGeometry x="140" y="140" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMl-yz5_S_ytCYJ7rsez-4" value="新建项目" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WMl-yz5_S_ytCYJ7rsez-1">
+          <mxGeometry x="200" y="180" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMl-yz5_S_ytCYJ7rsez-6" value="权限管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WMl-yz5_S_ytCYJ7rsez-1">
+          <mxGeometry x="200" y="220" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMl-yz5_S_ytCYJ7rsez-7" value="项目管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WMl-yz5_S_ytCYJ7rsez-1">
+          <mxGeometry x="350" y="180" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMl-yz5_S_ytCYJ7rsez-8" value="远程配置yml" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WMl-yz5_S_ytCYJ7rsez-1">
+          <mxGeometry x="350" y="220" width="70" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
