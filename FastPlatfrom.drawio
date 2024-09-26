@@ -4,6 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L5mioAHmbzhNOaYdM3QG-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1416" y="234" width="294" height="414" as="geometry" />
+        </mxCell>
+        <mxCell id="L5mioAHmbzhNOaYdM3QG-49" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1578" y="283" width="120" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="L5mioAHmbzhNOaYdM3QG-48" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1425" y="282" width="120" height="174" as="geometry" />
+        </mxCell>
         <mxCell id="L5mioAHmbzhNOaYdM3QG-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="234" width="510" height="408" as="geometry" />
         </mxCell>
@@ -72,6 +81,42 @@
         </mxCell>
         <mxCell id="L5mioAHmbzhNOaYdM3QG-32" value="。。。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="204" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5mioAHmbzhNOaYdM3QG-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="234" width="156" height="414" as="geometry" />
+        </mxCell>
+        <mxCell id="L5mioAHmbzhNOaYdM3QG-37" value="通讯方式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1452" y="247" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5mioAHmbzhNOaYdM3QG-38" value="MQTT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1434" y="300" width="102" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="L5mioAHmbzhNOaYdM3QG-39" value="TCP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1434" y="354" width="102" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="L5mioAHmbzhNOaYdM3QG-40" value="UDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1434" y="408" width="102" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="L5mioAHmbzhNOaYdM3QG-41" value="传输内容" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1603" y="248" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5mioAHmbzhNOaYdM3QG-42" value="JSON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="306" width="102" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="L5mioAHmbzhNOaYdM3QG-43" value="MODBUS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="360" width="102" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="L5mioAHmbzhNOaYdM3QG-44" value="自定义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="414" width="102" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="L5mioAHmbzhNOaYdM3QG-45" value="数据编解码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1434" y="468" width="258" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="L5mioAHmbzhNOaYdM3QG-46" value="会话路由" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1434" y="528" width="258" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="L5mioAHmbzhNOaYdM3QG-47" value="认证鉴权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1434" y="588" width="258" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
